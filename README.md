@@ -12,19 +12,15 @@
 
 I'm transitioning into cloud computing after several years in customer-focused support, where I developed strong troubleshooting, communication, and problem-solving skills.
 
-This repository documents my structured learning journey as I build practical experience through home labs, technical documentation, and real-world cloud projects. Every lab is designed to strengthen both my technical skills and my ability to communicate solutions clearly and professionally.
-
-This repository is continuously updated as I complete hands-on labs and cloud projects throughout my learning journey.
+This repository documents my transition through home labs, technical documentation, and hands-on cloud projects. Each lab is designed to build technical proficiency alongside the ability to communicate solutions clearly—a skill set central to cloud support work. It is updated continuously as new labs and projects are completed.
 
 ---
 
 ## Overview
 
-This repository serves as a living portfolio of my progress toward becoming a Cloud Support Engineer.
+This repository serves as a portfolio documenting my progress toward becoming a Cloud Support Engineer.
 
-Each lab focuses on developing practical skills in Linux system administration, networking, AWS cloud services, Python automation, Git, and technical troubleshooting. Rather than simply completing exercises, I document the implementation process, troubleshooting steps, lessons learned, and technical decisions made throughout each project.
-
-The goal is to demonstrate continuous growth while developing the mindset and habits expected of a cloud support professional.
+Each lab develops practical skills in Linux system administration, networking, AWS cloud services, Python automation, Git, and technical troubleshooting. Rather than simply completing exercises, I document the implementation process, the troubleshooting steps taken, and the reasoning behind key technical decisions—reflecting the habits and mindset expected of a cloud support professional.
 
 ---
 
@@ -33,8 +29,8 @@ The goal is to demonstrate continuous growth while developing the mindset and ha
 - Develop practical cloud support skills through structured, hands-on labs
 - Strengthen Linux, networking, and AWS fundamentals
 - Build disciplined troubleshooting and problem-solving habits
-- Produce professional technical documentation for every project
-- Create a portfolio that demonstrates continuous learning and measurable progress
+- Produce clear, professional technical documentation for every project
+- Maintain a portfolio that reflects measurable, ongoing progress
 
 ---
 
@@ -59,7 +55,7 @@ The goal is to demonstrate continuous growth while developing the mindset and ha
 
 ## Current Goal
 
-Build the technical knowledge, practical experience, and professional portfolio needed to launch a successful career as a Cloud Support Engineer through consistent, hands-on learning.
+To build the technical knowledge, practical experience, and professional portfolio required to launch a career as a Cloud Support Engineer through consistent, hands-on learning.
 
 ---
 
@@ -94,9 +90,9 @@ Cloud-Support-Journey
 
 ## Learning Philosophy
 
-I believe the best way to develop technical expertise is through consistent hands-on practice, thoughtful documentation, and continuous improvement.
+Technical expertise is best developed through consistent hands-on practice, thoughtful documentation, and continuous improvement.
 
-Every lab in this repository emphasizes not only implementation, but also understanding the reasoning behind each technical decision, the troubleshooting process, and the lessons learned along the way.
+Each lab in this repository emphasizes not just implementation, but the reasoning behind each technical decision, the troubleshooting process involved, and the lessons learned along the way.
 
 ---
 
@@ -107,4 +103,4 @@ Every lab in this repository emphasizes not only implementation, but also unders
 
 ---
 
-*This repository serves as a living portfolio documenting my technical growth and continuous learning as I prepare for a career in Cloud Support Engineering.*
+*This repository documents my technical growth as I prepare for a career in Cloud Support Engineering.*
