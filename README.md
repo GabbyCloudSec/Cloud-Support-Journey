@@ -14,6 +14,8 @@ I'm transitioning into cloud computing after several years in customer-focused s
 
 This repository documents my structured learning journey as I build practical experience through home labs, technical documentation, and real-world cloud projects. Every lab is designed to strengthen both my technical skills and my ability to communicate solutions clearly and professionally.
 
+This repository is continuously updated as I complete hands-on labs and cloud projects throughout my learning journey.
+
 ---
 
 ## Overview
