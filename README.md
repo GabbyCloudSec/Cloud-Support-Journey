@@ -59,30 +59,58 @@ To build the technical knowledge, practical experience, and professional portfol
 
 ---
 
-## Progress
+## Current Progress
 
-| Lab | Topic | Status |
-|------|-------|--------|
+This roadmap tracks my progress toward becoming a Cloud Support Engineer through structured hands-on projects focused on Linux, AWS, networking, automation, and technical troubleshooting.
+
+| Project | Topic | Status |
+|---------|-------|--------|
 | 00 | Development Environment Setup | ✅ Complete |
-| 01 | Linux Fundamentals | ⏳ In Progress |
+| 01 | Linux Fundamentals | ✅ Complete |
+| 02 | Linux Server Investigation | ✅ Complete |
+| 03 | Linux Permissions Troubleshooting | ✅ Complete |
+| 04 | Linux Users & Groups | 📅 Planned |
+| 05 | AWS EC2 Web Server | 📅 Planned |
+| 06 | AWS IAM Security | 📅 Planned |
+| 07 | Linux Networking Fundamentals | 📅 Planned |
+| 08 | Bash Scripting | 📅 Planned |
+| 09 | Python Automation | 📅 Planned |
+| 10 | Docker Fundamentals | 📅 Planned |
+| 11 | Terraform Fundamentals | 📅 Planned |
+
+
+## Completed Portfolio Projects
+
+### Linux Server Investigation
+
+A simulated Cloud Support troubleshooting project focused on Linux log analysis, evidence-based troubleshooting, and technical documentation.
+
+🔗 https://github.com/GabbyCloudSec/linux-server-investigation
+
+---
+
+### Linux Permissions Troubleshooting Lab
+
+A hands-on Cloud Support project demonstrating Linux file permissions, access control, and security best practices.
+
+🔗 https://github.com/GabbyCloudSec/linux-permissions-lab
 
 ---
 
 ## Repository Structure
 
 ```text
-Cloud-Support-Journey
+Cloud-Support-Journey/
 │
-├── Labs/
-│   ├── Lab-00-Development-Environment/
-│   ├── Lab-01-Linux-Fundamentals/
-│   └── ...
+├── Projects/
+│   ├── Linux/
+│   ├── AWS/
+│   ├── Networking/
+│   └── Python/
 │
-├── Notes/
+├── Documentation/
 ├── Scripts/
-├── Diagrams/
 ├── Screenshots/
-├── Downloads/
 └── Resources/
 ```
 
