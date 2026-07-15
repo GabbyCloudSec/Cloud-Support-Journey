@@ -36,7 +36,7 @@ Each lab develops practical skills in Linux system administration, networking, A
 
 ## Core Technologies
 
-`Linux` • `AWS` • `Networking` • `Python` • `Git` • `GitHub` • `Bash` • `Technical Troubleshooting`
+Linux • AWS • Networking • Bash • Git • GitHub • Python • Technical Documentation
 
 ---
 
@@ -44,11 +44,11 @@ Each lab develops practical skills in Linux system administration, networking, A
 
 - Linux System Administration
 - Cloud Infrastructure Fundamentals
+- Networking Fundamentals
+- Bash Scripting
 - Git & GitHub Workflow
 - Python Automation
-- Networking Fundamentals
 - Technical Documentation
-- Problem Solving
 - Troubleshooting Methodology
 
 ---
@@ -68,8 +68,8 @@ This roadmap tracks my progress toward becoming a Cloud Support Engineer through
 | 00 | Development Environment Setup | ✅ Complete |
 | 01 | Linux Fundamentals | ✅ Complete |
 | 02 | Linux Server Investigation | ✅ Complete |
-| 03 | Linux Permissions Troubleshooting | ✅ Complete |
-| 04 | Linux Users & Groups | 📅 Planned |
+| 03 | Linux Permissions & Ownership | ✅ Complete |
+| 04 | Linux Users & Groups Administration | ✅ Complete |
 | 05 | AWS EC2 Web Server | 📅 Planned |
 | 06 | AWS IAM Security | 📅 Planned |
 | 07 | Linux Networking Fundamentals | 📅 Planned |
@@ -78,47 +78,39 @@ This roadmap tracks my progress toward becoming a Cloud Support Engineer through
 | 10 | Docker Fundamentals | 📅 Planned |
 | 11 | Terraform Fundamentals | 📅 Planned |
 
+---
 
 ## Completed Portfolio Projects
 
+The following repositories showcase hands-on projects completed as part of my Cloud Support Engineering learning journey.
+
+### Linux Permissions & Ownership
+
+Demonstrates Linux file permissions, ownership, least privilege, and access control through a hands-on troubleshooting scenario.
+
+🔗 https://github.com/GabbyCloudSec/linux-permissions-ownership
+
+---
+
+### Linux Users & Groups Administration
+
+Demonstrates Linux user and group administration, secure shared resources, ownership, and access control through a real-world support scenario.
+
+🔗 https://github.com/GabbyCloudSec/linux-users-groups
+
+---
+
 ### Linux Server Investigation
 
-A simulated Cloud Support troubleshooting project focused on Linux log analysis, evidence-based troubleshooting, and technical documentation.
+Demonstrates evidence-based Linux log analysis, troubleshooting, and technical documentation through a simulated application outage investigation.
 
 🔗 https://github.com/GabbyCloudSec/linux-server-investigation
 
 ---
 
-### Linux Permissions Troubleshooting Lab
-
-A hands-on Cloud Support project demonstrating Linux file permissions, access control, and security best practices.
-
-🔗 https://github.com/GabbyCloudSec/linux-permissions-lab
-
----
-
-## Repository Structure
-
-```text
-Cloud-Support-Journey/
-│
-├── Projects/
-│   ├── Linux/
-│   ├── AWS/
-│   ├── Networking/
-│   └── Python/
-│
-├── Documentation/
-├── Scripts/
-├── Screenshots/
-└── Resources/
-```
-
----
-
 ## Learning Philosophy
 
-Technical expertise is best developed through consistent hands-on practice, thoughtful documentation, and continuous improvement.
+I believe technical expertise is built through consistent hands-on practice, thoughtful documentation, and continuous improvement.
 
 Each lab in this repository emphasizes not just implementation, but the reasoning behind each technical decision, the troubleshooting process involved, and the lessons learned along the way.
 
