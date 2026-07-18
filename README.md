@@ -12,13 +12,11 @@
 
 I'm transitioning into cloud computing after several years in customer-focused support, where I developed strong troubleshooting, communication, and problem-solving skills.
 
-This repository documents my learning through hands-on labs, technical documentation, and real-world projects as I build the technical skills required for a Cloud Support Engineer role.
-
 ---
 
 ## Overview
 
-This repository serves as a portfolio documenting my progress toward becoming a Cloud Support Engineer.
+This repository is a portfolio documenting my progress toward becoming a Cloud Support Engineer, through hands-on labs, technical documentation, and real-world projects.
 
 Each project focuses on practical implementation, verification, troubleshooting, and professional documentation to demonstrate technical knowledge and structured problem-solving.
 
@@ -98,7 +96,7 @@ The following repositories showcase hands-on projects completed as part of my Cl
 
 Investigated a simulated application outage through Linux log analysis, troubleshooting methodology, and professional technical documentation.
 
-**Repository:**  
+**Repository:**
 https://github.com/GabbyCloudSec/linux-server-investigation
 
 ---
@@ -107,7 +105,7 @@ https://github.com/GabbyCloudSec/linux-server-investigation
 
 Configured Linux file permissions, ownership, and least-privilege access through a practical Linux administration scenario.
 
-**Repository:**  
+**Repository:**
 https://github.com/GabbyCloudSec/linux-permissions-ownership
 
 ---
@@ -116,7 +114,7 @@ https://github.com/GabbyCloudSec/linux-permissions-ownership
 
 Created Linux users and groups, configured secure shared resources, and verified access using Linux administration best practices.
 
-**Repository:**  
+**Repository:**
 https://github.com/GabbyCloudSec/linux-users-groups-administration
 
 ---
