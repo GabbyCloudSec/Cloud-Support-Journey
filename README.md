@@ -1,129 +1,213 @@
-# Cloud Support Engineering Journey
+# ☁️ Cloud Support Journey
 
-**A structured record of hands-on learning in cloud computing, systems administration, networking, and technical troubleshooting.**
+Welcome to my Cloud Support Journey.
 
-![Status](https://img.shields.io/badge/status-in--progress-blue)
-![Focus](https://img.shields.io/badge/focus-Cloud%20Support-orange)
-![Last Updated](https://img.shields.io/badge/updated-July%202026-lightgrey)
+This repository serves as the central hub for my technical portfolio, documenting the projects, labs, and skills I'm building as I work toward becoming a Cloud Support Engineer.
 
----
-
-## About
-
-I'm transitioning into cloud computing after several years in customer-focused support, where I developed strong troubleshooting, communication, and problem-solving skills.
+Each repository demonstrates practical experience gained through hands-on learning, technical documentation, and structured troubleshooting.
 
 ---
 
-## Overview
+## 🎯 Career Goal
 
-This repository is a portfolio documenting my progress toward becoming a Cloud Support Engineer, through hands-on labs, technical documentation, and real-world projects.
-
-Each project focuses on practical implementation, verification, troubleshooting, and professional documentation to demonstrate technical knowledge and structured problem-solving.
+My goal is to build the technical skills, practical experience, and professional habits needed to begin my career as a Cloud Support Engineer while continuing to grow toward Cloud Security Engineering.
 
 ---
 
-## Objectives
+## 🏗️ Portfolio Philosophy
 
-- Develop practical cloud support skills through structured, hands-on labs
-- Strengthen Linux, networking, and AWS fundamentals
-- Build disciplined troubleshooting and problem-solving habits
-- Produce clear, professional technical documentation for every project
-- Maintain a portfolio that reflects measurable, ongoing progress
+I believe technical skills are best demonstrated through hands-on projects rather than simply listed on a résumé.
+
+Every repository in this portfolio focuses on practical problem solving, clear technical documentation, and continuous improvement.
 
 ---
 
-## Technical Skills
+## 📂 Portfolio Navigation
 
-- Linux System Administration
-- Networking Fundamentals
-- AWS Cloud Fundamentals
-- Bash Scripting
+Explore the projects that document my progress:
+
+- ☁️ [Cloud Support Journey](https://github.com/GabbyCloudSec/Cloud-Support-Journey)
+- 🐧 Linux Projects *(Current)*
+- 🌐 Networking Projects *(In Progress)*
+- ☁️ AWS Projects *(Coming Soon)*
+- 🤖 Automation Projects *(Coming Soon)*
+- 🔒 Cloud Security Projects *(Future)*
+
+---
+
+## 📐 Engineering Standards
+
+Every project follows the same engineering workflow:
+
+1. Verify
+2. Understand
+3. Plan
+4. Build
+5. Review
+6. Commit
+7. Push
+8. Verify
+
+Every repository follows a consistent documentation structure:
+
+- Overview
+- Skills Demonstrated
+- Tools Used
+- Scenario
+- What I Did
+- Verification
+- Key Takeaways
+- Next Steps
+
+---
+
+## 🗺️ Learning Roadmap
+
+### ✅ Phase 0 — Professional Foundation
+
+- Development Environment
 - Git & GitHub
-- Python Automation
-- Technical Documentation
-- Troubleshooting Methodology
+- Professional Documentation
+- Home Lab Setup
 
 ---
 
-## Current Project
+### ✅ Phase 1 — Linux Administration
 
-### Networking Fundamentals & Troubleshooting
+**Projects Completed**
 
-I'm currently building a hands-on networking project focused on the core concepts used by Cloud Support Engineers.
+- Linux Server Investigation
+- Linux Users & Groups Administration
+- Linux Permissions & Ownership
 
-Topics include:
+**Skills Developed**
 
-- IPv4 addressing
-- Subnetting fundamentals
-- DNS resolution
-- Routing
-- Network diagnostics
-- Connectivity troubleshooting
-- Professional technical documentation
-
-**Goal:** Build a strong networking foundation before progressing into AWS infrastructure and cloud networking projects.
-
----
-
-## Current Progress
-
-This roadmap tracks my progress toward becoming a Cloud Support Engineer through structured, hands-on projects.
-
-| Project | Topic | Status |
-|---------|-------|--------|
-| 00 | Development Environment Setup | Complete |
-| 01 | Linux Fundamentals | Complete |
-| 02 | Linux Server Investigation | Complete |
-| 03 | Linux Permissions & Ownership | Complete |
-| 04 | Linux Users & Groups Administration | Complete |
-| 05 | Networking Fundamentals & Troubleshooting | In Progress |
-| 06 | DNS Troubleshooting | Planned |
-| 07 | AWS EC2 Web Server | Planned |
-| 08 | AWS IAM Security | Planned |
-| 09 | AWS Networking & VPC | Planned |
-| 10 | Bash Scripting | Planned |
-| 11 | Python Automation | Planned |
-| 12 | Docker Fundamentals | Planned |
-| 13 | Terraform Fundamentals | Planned |
+- Linux navigation
+- File management
+- User and group administration
+- File permissions
+- Log analysis
+- Technical documentation
 
 ---
 
-## Completed Portfolio Projects
+### 🚧 Phase 2 — Networking Fundamentals
 
-The following repositories showcase hands-on projects completed as part of my Cloud Support Engineering learning journey.
+Currently building knowledge in:
 
-### Linux Server Investigation
-
-Investigated a simulated application outage through Linux log analysis, troubleshooting methodology, and professional technical documentation.
-
-**Repository:**
-https://github.com/GabbyCloudSec/linux-server-investigation
-
----
-
-### Linux Permissions & Ownership
-
-Configured Linux file permissions, ownership, and least-privilege access through a practical Linux administration scenario.
-
-**Repository:**
-https://github.com/GabbyCloudSec/linux-permissions-ownership
+- Network Troubleshooting
+- TCP/IP
+- DNS
+- DHCP
+- Routing & Switching
+- Cisco Networking
 
 ---
 
-### Linux Users & Groups Administration
+### ⏳ Phase 3 — AWS Foundations
 
-Created Linux users and groups, configured secure shared resources, and verified access using Linux administration best practices.
+Planned topics:
 
-**Repository:**
-https://github.com/GabbyCloudSec/linux-users-groups-administration
-
----
-
-## Additional Resources
-
-- **GitHub:** https://github.com/GabbyCloudSec
-- **LinkedIn:** https://linkedin.com/in/gabbycloudsec
+- Amazon EC2
+- IAM
+- VPC
+- Amazon S3
+- Cloud Networking
+- Cloud Support Scenarios
 
 ---
 
-*This portfolio is continuously updated as I complete new projects and build practical cloud support skills.*
+### ⏳ Phase 4 — Automation
+
+Planned topics:
+
+- Bash
+- Python
+- Git Automation
+
+---
+
+### 🎯 Phase 5 — Cloud Security
+
+Long-term focus:
+
+- AWS Security
+- IAM Best Practices
+- Monitoring & Logging
+- Incident Response
+- Cloud Security Projects
+
+---
+
+## 📂 Featured Projects
+
+### ☁️ Cloud Support Journey
+
+The roadmap documenting my progress toward becoming a Cloud Support Engineer.
+
+**Repository:** [Cloud Support Journey](https://github.com/GabbyCloudSec/Cloud-Support-Journey)
+
+---
+
+### 🐧 Linux Server Investigation
+
+Investigated a simulated Linux server issue using structured troubleshooting, log analysis, and technical documentation.
+
+**Repository:** [Linux Server Investigation](https://github.com/GabbyCloudSec/linux-server-investigation)
+
+---
+
+### 👥 Linux Users & Groups Administration
+
+Managed Linux users, groups, and access control while applying Linux administration best practices.
+
+**Repository:** [Linux Users & Groups Administration](https://github.com/GabbyCloudSec/linux-users-groups-administration)
+
+---
+
+### 🔐 Linux Permissions & Ownership
+
+Configured Linux permissions and file ownership while applying the Principle of Least Privilege.
+
+**Repository:** [Linux Permissions & Ownership](https://github.com/GabbyCloudSec/linux-permissions-ownership)
+
+---
+
+## 📚 Learning Platforms
+
+I'm currently building my skills through:
+
+- Cisco Networking Academy
+- AWS Skill Builder
+- TryHackMe
+
+---
+
+## 🚀 What's Next
+
+My current priorities are:
+
+- Complete Networking Fundamentals
+- Build networking troubleshooting labs
+- Begin AWS infrastructure projects
+- Expand my cloud support portfolio
+- Continue documenting every project
+
+---
+
+## 🤝 Connect
+
+- **GitHub:** [GabbyCloudSec](https://github.com/GabbyCloudSec)
+- **LinkedIn:** [Gabriell](https://linkedin.com/in/gabbycloudsec)
+
+---
+
+## Thank You
+
+Thank you for taking the time to explore my portfolio.
+
+This repository will continue to evolve as I complete new projects, strengthen my technical skills, and work toward becoming a Cloud Support Engineer.
+
+---
+
+*Last Updated: July 2026*
